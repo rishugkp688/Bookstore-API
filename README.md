@@ -1,5 +1,3 @@
-# Bookstore-API
-
 # Bookstore API
 
 A RESTful API for a Bookstore Application built with NestJS, TypeScript, and MongoDB.
